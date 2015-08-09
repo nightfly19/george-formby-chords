@@ -15,7 +15,8 @@
     "Chord transcription based on Lewis D Clifton's YouTube video https://www.youtube.com/watch?v=aowufYfNmGw",
     "Lyrics based off of http://www.traditionalmusic.co.uk/formby-song-book/i_can_tell_it_by_my_horoscope-1939.htm and my own transcription of the recording of the song I got from google play",
     "The song is meant for a D6 tuned ukulele, but chords are named as if C6 tuning is used."
-  ]
+  ],
+  "transcriptionist": "Sage Imel"
 }
 
 Intro:
