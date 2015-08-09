@@ -1,0 +1,75 @@
+{
+  "title": "I Can Tell It By My Horoscope",
+  "releaseDate": "1939",
+  "artist": "George Formby",
+  "chords": {
+     "E7": "1202",
+     "E7+5": "1203",
+     "Am": "2003",
+     "Am add9": "2002",
+     "Dm": "2213"
+  },
+  "instrument": "ukulele"
+  "capo": 2,
+  "notes": [
+    "Chord transcription based on Lewis D Clifton's YouTube video https://www.youtube.com/watch?v=aowufYfNmGw",
+    "Lyrics based off of http://www.traditionalmusic.co.uk/formby-song-book/i_can_tell_it_by_my_horoscope-1939.htm and my own transcription of the recording of the song I got from google play",
+    "The song is meant for a D6 tuned ukulele, but chords are named as if C6 tuning is used."
+  ]
+}
+
+Intro:
+C              G7         C       G7     C
+I can read the future and tell if fate's unkind.
+G                        G7               D7             G7 Gsus2 G7
+The stars I've read I've looked ahead and this is what I find
+
+Verse:
+C             G7     A7                   Dm             G7    C (C6) (C)
+Climbing last week a big mountain peak, I slipped down a rocky slope
+  A7                   D7                                    G7  C
+I cried as I fell "I'm on my way to bed, I can tell it by my horoscope".
+
+My brother joe pulled a wishbone with Flo, and said "for the best, lets hope"
+Then he whispered, "Ooh! Me wish is coming true, I can tell it by my horoscope".
+
+Chorus:
+E7            E7+5 E7  Am            E7    E7+5 E7 Am
+There's lucky colours, lucky stones, lucky numbers too.
+G              G7                D7     D    D7 G7
+Lucky eight as sure as fate will always pull me through.
+
+Verse:
+
+My cousin Kate is putting on weight, I said "You're beyond all hope.
+Nature's unkind, your futures all behind, I can tell it by your horoscope".
+
+Once an old maid, said "I'm afraid. My future brings no hope"
+I said "Don't give way! The troops are home today, I can tell it by your horoscope".
+
+Early one morn, a baby was born. It's father said "Plase don't mope.
+Lets jump for joy, I know that it's a boy, I can tell it by his horoscope"
+
+CHORUS
+
+I study stars, Venus and Mars, for Venus there isn't much hope.
+She's all wrapped in gauze with a pair of flannel socks I can tell it by her horoscope.
+
+SOLO:
+
+Verse
+
+Chorus
+
+Verse
+
+---
+
+Extra verses:
+
+Snowstorms and hails, blizzards and gales, through fog away we grope
+but next July its going to be dry I can tell it by my horoscope
+
+Said Grandpa so gay, mixed bathing one day "With Flappers I still can cope"
+I'm older in years but I've got some young ideas, I can tell it by my horoscope
+
